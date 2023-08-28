@@ -1,0 +1,213 @@
+.wrapper {
+    background: url('../image/diu_Cover.jpg');
+    /* padding: 272px  0px; */
+    padding: 286px 0px 503px 0px;
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+    margin-top: 0px;
+}
+.coverMeta.text-center.animated.fadeInUp {
+    background: #fff;
+    padding: 55px 0px;
+    border-radius: 10px;
+}
+
+.DistrictWrapper select {
+    padding: 12px 38px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+
+.categoryWrapper select {
+    padding: 12px 27px;
+    border-radius: 5px;
+    border: 1px solid #ddd;
+}
+.btnAndCoverWrapper button {
+    padding: 13px 42px;
+    position: relative;
+    border-radius: 5px !important;
+    margin-top: -18px;
+}
+.btnAndCoverWrapper {
+    padding: 0px 0px 191px 0px;
+    border-radius: 10px;
+    /* border: 2px solid #f01484; */
+}
+.smallMetaText {
+    text-align: center;
+    background: #fff;
+    width: 324px;
+    padding: 17px 0px;
+    border-radius: 15px;
+    font-weight: 600;
+    margin: auto;
+    margin-top: -248px;
+    border: 2px solid #2E3094;
+}
+.smallMetaText svg {
+    color: #2E3094;
+}
+
+.coverMeta.text-center p {
+    margin: 16px 0px 32px 0px;
+}
+  
+button.shadow.btn.btn-warning {
+    color: #897b7b;
+}
+.bannerButton {
+    background: none #2E3094 !important;
+    color: #ffffff !important;
+    fill: #ffffff !important;
+    border: none !important;
+    text-decoration: none !important;
+    outline: 0;
+    box-shadow: -1px 6px 19px rgba(240,20,132,0.2) !important;
+    border-radius: 4px !important;
+    padding: 12px 50px;
+}
+h2.textContentWrapper {
+    color: #FFFFFF;
+    font-size: 26px;
+    font-family: "Montserrat", Sans-serif !important;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-style: normal;
+    text-decoration: none;
+    line-height: 26px;
+    letter-spacing: 0px;
+    word-spacing: 0em;
+}
+p.coverText {
+    color: #FFFFFF;
+    font-weight: 400;
+}
+
+.subscribeComponents input {
+    padding: 6px 0px;
+    border-radius: 5px;
+    background: transparent;
+    border-color: #f0ad4e;
+    margin-right: 5px;
+    border: 2px solid #0dcaf0;
+}
+::placeholder {
+    color: rgb(204, 195, 195);
+    opacity: 1;
+    text-align: center;
+  }
+.subscribeComponents {
+    float: right;
+}
+img.poster {
+    width: 110px;
+}
+.posterText h2 {
+    font-size: 22px;
+}
+.card.posterWrapper {
+    padding: 24px 35px;
+    border-top: 4px solid #2E3094;
+}
+button.btn.shadow.rounded-pill.hvr-pop {
+    background: none #2E3094 !important;
+    color: #ffffff !important;
+    fill: #ffffff !important;
+    border: none !important;
+    text-decoration: none !important;
+    outline: 0;
+    box-shadow: -1px 6px 19px rgba(240,20,132,0.2) !important;
+    border-radius: 4px !important;
+    padding: 6px 13px;
+  }
+.singleContactBox.card.shadow {
+    width: 80px;
+    text-align: center;
+    margin: auto;
+    padding: 20px 0px;
+}
+.singleContactBox.card.shadow svg {
+    font-size: 30px;
+    width: auto;
+}
+.singleContact {
+    text-align: center;
+}
+.getInTouch{
+    background:#ddd;
+}
+h5.card-title.text-center {
+    font-weight: 300;
+}
+.posterText h2 {
+    font-weight: normal;
+}
+.posterText p {
+    font-weight: 300;
+}
+.singleContactBox svg {
+    color: #2E3094;
+}
+.singleContactBox {
+    border-left: 3px solid #2E3094;
+}
+
+.coverWrapper {
+    position: relative;
+  }
+.textBannerButton{
+    background: none #2E3094 !important;
+    color: #ffffff !important;
+    fill: #ffffff !important;
+    border: none !important;
+    text-decoration: none !important;
+    outline: 0;
+    box-shadow: -1px 6px 19px rgba(240,20,132,0.2) !important;
+    border-radius: 4px !important;
+    padding: 6px 13px;
+}
+  
+  .fade-out {
+    opacity: 0;
+    transition: opacity 0.5s ease-in-out;
+    pointer-events: none;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 1;
+  }
+  
+  .fade-in {
+    opacity: 1;
+    transition: opacity 0.5s ease-in-out;
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    z-index: 2;
+  }
+   
+  h2.textContentWrapper {
+    font-size: 36px;
+    margin-bottom: 21px;
+    line-height: 50px;
+}
+  p.coverText {
+    font-size: 18px;
+    margin-bottom: 56px;
+  }
+  .text-center.animated.fadeInUp h2 {
+    font-weight: 700;
+    color: white;
+    font-size: 42px;
+}
+  
+  
+  
+
